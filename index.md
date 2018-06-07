@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+  Start psy_world blog.
