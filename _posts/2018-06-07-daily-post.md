@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "180607 일상"
+title: "18.06.07 일상"
 categories: daily
 ---
 

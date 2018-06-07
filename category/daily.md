@@ -10,7 +10,7 @@ permalink: /daily/
     <div style="background: #ddd">
         <div class="container last-post">
         <section>
-            <h5>Vue.js post list</h5>
+            <h5>일상..</h5>
             {% assign category = page.category | default: page.title %} <!-- 같은 title 찾기 -->
             
             <ul class="collection">
