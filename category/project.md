@@ -18,7 +18,7 @@ permalink: /project/
                 <div class="date-post">P_01</div>
                 <span class="title"><a class="post-link" href="https://github.com/soyunni/psy_world">psy_world</a></span>
                 <p>
-                   Spring boot + mysql + jsp + jquery > 일반 게시판 
+                   Spring boot + mysql + jsp + jquery > 일반 게시판
                 </p>
                 <a href="https://github.com/soyunni/psy_world" class="secondary-content"><i class="material-icons"></i></a>
               </li>
@@ -27,7 +27,7 @@ permalink: /project/
                   <div class="date-post">P_02</div>
                   <span class="title"><a class="post-link" href="https://github.com/soyunni/btw-project">btw-project</a></span>
                   <p>
-                    config 하나로 view 설정 바꿔서 노출
+                    config 하나로 view 설정 바꿔서 노출하기
                   </p>
                   <a href="https://github.com/soyunni/psy_world" class="secondary-content"><i class="material-icons"></i></a>
                 </li>
